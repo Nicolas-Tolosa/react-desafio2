@@ -14,7 +14,7 @@ import Register from "../pages/Register"
 
 const AppRoutes = () => {
   return (
-    <Router basename="/react/pizzeria_mammamia">
+    <Router>
       <Navbar></Navbar>
     
       <div className="min-h-screen">
